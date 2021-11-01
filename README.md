@@ -1,2 +1,2 @@
 # VR_Bowling
-A VR Bowling game
+A GitHub that includes the game for unity game for VR Bowling
