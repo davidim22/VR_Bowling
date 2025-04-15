@@ -7,4 +7,4 @@ Experience the thrill of bowling like never before with **VR Bowling**, a projec
 - **Oculus Quest 2**
 
 ## 📸 Game Preview
-![VR Bowling Game Feedback](VR_Bowling/Bowl_Complete/preview.gif)
+![VR Bowling Game Feedback](Bowl_Complete/preview.gif)
